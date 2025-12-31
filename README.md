@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Vinh Tang. I am an Junior Data Scientist. I am interested in the following topics: Machine Learning, Deep Learning and Dataviz.<br>
+My name is Vinh Tang. I am an Junior Data Scientist. I am interested in the following topics: Machine Learning, Deep Learning, Dataviz and Finance.<br>
 
 ## 📫 How to reach me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tkvinh) 
